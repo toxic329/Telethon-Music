@@ -22,13 +22,13 @@
 
 Note: This Code Based On Telethon So You need [Telethon String Session](https://telethon.netlify.app/) And A bot token from @botfather Or Before hosting uh need to fill all config
 
-[ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/5bcf79f948ca06030640c.mp4)
+[ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://te.legra.ph/file/ad002f1149b9f4d52e798.jpg)
 
 <p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/ITZ-ZAID/Telethon-Music"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 ## Deploy To Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ITZ-ZAID/Telethon-Music&env[ASSISTANT_ID]&env[BOT_TOKEN]&env[STRING_SESSION]&branch=master&name=telethon)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ITZ-TOXIC/Telethon-Music&env[ASSISTANT_ID]&env[BOT_TOKEN]&env[STRING_SESSION]&branch=master&name=telethon)
 
 
 ## Workflows hosting
